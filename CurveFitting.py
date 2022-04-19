@@ -4,7 +4,7 @@ Description:
     This is a simple script to demonstrate Scipy's curve_fit module using a few common mathematical functions.
 ============================================================================================
 License_info:
-    LCD-Composer is subject to the terms of the MIT license.
+    This script is subject to the terms of the MIT license.
 """
 
 __author__ = 'Sean M Cascarina'
